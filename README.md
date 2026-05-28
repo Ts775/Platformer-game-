@@ -29,15 +29,15 @@ The game includes:
 
 #  Features
 
-✅ Smooth movement physics
-✅ Variable jump height
-✅ Infinite scrolling world
-✅ Random platform generation
-✅ Moving platforms
-✅ Coin collectibles
-✅ Score system
-✅ Screen wrap-around movement
-✅ Custom graphics and background
+* Smooth movement physics
+* Variable jump height
+* Infinite scrolling world
+* Random platform generation
+* Moving platforms
+* Coin collectibles
+* Score system
+* Screen wrap-around movement
+* Custom graphics and background
 
 ---
 
