@@ -1,7 +1,5 @@
 # Platformer-game-
 
-#  Endless Platformer — Pygame Project
-
 An endless vertical platformer built with **Python** and **Pygame** where the player jumps across moving platforms, collects coins, and climbs for the highest score possible.
 
 ---
